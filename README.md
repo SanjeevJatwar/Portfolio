@@ -33,5 +33,5 @@ It showcases my skills, projects, and ways to contact me.
 ---
 
 ## 📬 Contact
-- Email: **sanjeev@example.com**  
+- Email: **jatwarsanjeev@gmail.com**  
 - GitHub: [SanjeevJatwar](https://github.com/SanjeevJatwar)
